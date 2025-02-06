@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: 405e5faa3ed4a0942b97fd531bd8a070
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 115
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Axeman_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1654
+        width: 166
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7edf0a06bc15b40af65ef8ee4f7693
+      internalID: -1428704464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1654
+        width: 181
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf62053bbc983ea43b366e5b2464e5d1
+      internalID: 695723786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1654
+        width: 193
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a861e9e65d9af14fb5b5c7292fe0447
+      internalID: 566406412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_5
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1654
+        width: 213
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b99dc2563d21a44bb1db8d98945355
+      internalID: 1226226392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_6
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1652
+        width: 244
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20fd4102d9d72b4887e9a9ae9fc82d9
+      internalID: -124243002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_7
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1651
+        width: 211
+        height: 311
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e716f72e543064bab9537bccc2f150
+      internalID: 376055829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_8
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1647
+        width: 194
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b3426afb893b42ad75ec9d7d4ff7a
+      internalID: 563832714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_9
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1647
+        width: 181
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f3ae8bd34d6248b7fbf88b6b4957b
+      internalID: 1424352438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_11
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1649
+        width: 168
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac3107f652baa84f9f9df71597883eb
+      internalID: 2004310698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_13
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1651
+        width: 197
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827b56a3ffaf080489471d511fabe8a9
+      internalID: -1316935930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_14
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1640
+        width: 241
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242bca30e2cb9342a84e49a1f953c24
+      internalID: 1598991294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_15
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 1649
+        width: 279
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4a9d452daf66a4ca94f894a56fd961
+      internalID: -1509727159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_16
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1647
+        width: 322
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ef4b4dff696574ba009c305ba127d4
+      internalID: 553830378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_17
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 1654
+        width: 282
+        height: 299
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86b24b69fc9294db539b1db70d015f
+      internalID: -120027726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_18
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 1654
+        width: 241
+        height: 309
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316a37f6dc4756840b6f84ae3bf07b4c
+      internalID: 17941097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_20
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 1654
+        width: 199
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33111ab87da1b84ca03e83b9d6b6273
+      internalID: -944386629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_22
+      rect:
+        serializedVersion: 2
+        x: 4854
+        y: 1654
+        width: 169
+        height: 306
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b15b0ae03d89d44bc9fe2ff85b0242
+      internalID: -218136110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_23
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1915
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49457fecfb70cc04e8a59ab0f972b34d
+      internalID: -1376861406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_40
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1210
+        width: 304
+        height: 406
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445e89d760cce7a48b4ddb143eb63273
+      internalID: -1742603991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_41
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1214
+        width: 336
+        height: 367
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b5812dca9e0444b8fa69208a4735d
+      internalID: -411821991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_42
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1214
+        width: 363
+        height: 317
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6b2d7bd9f3db04daef26df9c653644
+      internalID: -1215345388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_43
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1214
+        width: 397
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a27bac2a4d9e4e449c0a799a3edf028
+      internalID: 1358062148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_44
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1214
+        width: 394
+        height: 299
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172d336d9490c02499324f014b912819
+      internalID: -1016645523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_45
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1214
+        width: 349
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a6449199bc3454f957237d6110e2be
+      internalID: 254296168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_46
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1217
+        width: 326
+        height: 297
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df93fbc78bbdce468c895d4aed61d1c
+      internalID: -421519852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 825
+        width: 374
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5, y: 0.53}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92fc42c23b553f45a9b89452b54eba8
+      internalID: -1625751745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_49
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 812
+        width: 342
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372fa935b7ed1784998ab100d2c0d0d5
+      internalID: -1958981172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_50
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 811
+        width: 337
+        height: 273
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333896f2fe768ad4a80c3136c3658328
+      internalID: -1253752106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_51
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 803
+        width: 341
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd361d35f6ea55468c6b948de926cf5
+      internalID: -936807588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_52
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 795
+        width: 387
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a664060b72f11c4e8d664fb279f93ce
+      internalID: -622021666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_53
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 795
+        width: 389
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c416847f359ae3848ba8ea74f1839461
+      internalID: 1927812256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 372
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ca4a2a7c97d064fa0190741961d317
+      internalID: 1689898769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_55
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 436
+        width: 349
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786a51b2c2ebe644c9c2378a662a5872
+      internalID: 1175902925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_56
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 443
+        width: 309
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeca2bc6abd62f841811c7800795d636
+      internalID: 997574997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_57
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 439
+        width: 277
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8755e1acd68b25b4dbe99cb8a2a6a187
+      internalID: -1423176586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_58
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 436
+        width: 209
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21cadc70476095498811f3311119b5c
+      internalID: 1119563751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_59
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 436
+        width: 196
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05694d5dd6bd86342975b1538e66e4e8
+      internalID: 981868455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_60
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 436
+        width: 198
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a23a1b6abe93d4aa789d655a869e47
+      internalID: 978799767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_61
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 436
+        width: 196
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1955d6c348a3c3b42964c18bdc6d37c0
+      internalID: 851110886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_62
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 436
+        width: 209
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c286cc01786d3e458b28fe0ade221e4
+      internalID: 1959709762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_63
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 433
+        width: 274
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31b26d1f81b0a34b8ec06242b5dbd0a
+      internalID: -988464370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_64
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 436
+        width: 309
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9232fbebef163f4aae56b9a7b0fed52
+      internalID: 166091444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_65
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 436
+        width: 349
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fd5acbba2166d43823dd05aa42f8f7
+      internalID: 2013911671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_66
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 423
+        width: 374
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03be9a3eaca884da70896568006e1c
+      internalID: 1946129611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axeman_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 79
+        width: 188
+        height: 284
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61c0639b9fd3694ba8f3ed218b8b30d
+      internalID: -772954878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Axeman_19: -1720732863
+      Axeman_0: -1600594847
+      Axeman_53: 1927812256
+      Axeman_27: 410166688
+      Axeman_26: 244330705
+      Axeman_7: 376055829
+      Axeman_6: -124243002
+      Axeman_57: -1423176586
+      Axeman_18: 17941097
+      Axeman_22: -218136110
+      Axeman_54: 1689898769
+      Axeman_67: -772954878
+      Axeman_60: 978799767
+      Axeman_64: 166091444
+      Axeman_50: -1253752106
+      Axeman_31: 277762967
+      Axeman_39: -1927120313
+      Axeman_34: -770288485
+      Axeman_14: 1598991294
+      Axeman_5: 1226226392
+      Axeman_32: -1435527198
+      Axeman_49: -1958981172
+      Axeman_51: -936807588
+      Axeman_55: 1175902925
+      Axeman_11: 2004310698
+      Axeman_12: 378057713
+      Axeman_35: -1235272398
+      Axeman_40: -1742603991
+      Axeman_15: -1509727159
+      Axeman_4: 566406412
+      Axeman_13: -1316935930
+      Axeman_28: 2123936843
+      Axeman_30: -124462987
+      Axeman_37: -1733533463
+      Axeman_42: -1215345388
+      Axeman_44: -1016645523
+      Axeman_24: 1664436817
+      Axeman_29: -379837447
+      Axeman_46: -421519852
+      Axeman_10: -1873319815
+      Axeman_43: 1358062148
+      Axeman_25: 851146229
+      Axeman_62: 1959709762
+      Axeman_9: 1424352438
+      Axeman_65: 2013911671
+      Axeman_52: -622021666
+      Axeman_8: 563832714
+      Axeman_21: 1446165282
+      Axeman_45: 254296168
+      Axeman_47: -1625751745
+      Axeman_38: -590646370
+      Axeman_1: -1428704464
+      Axeman_59: 981868455
+      Axeman_20: -944386629
+      Axeman_36: 335984018
+      Axeman_56: 997574997
+      Axeman_48: -1716944756
+      Axeman_3: 695723786
+      Axeman_23: -1376861406
+      Axeman_17: -120027726
+      Axeman_63: -988464370
+      Axeman_58: 1119563751
+      Axeman_16: 553830378
+      Axeman_61: 851110886
+      Axeman_66: 1946129611
+      Axeman_33: -1742794158
+      Axeman_2: -3643432
+      Axeman_41: -411821991
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
